@@ -1,3 +1,2 @@
-# alaina
-
-Alaina webpage
+# alainapande.github.io
+My Personal Webpage
